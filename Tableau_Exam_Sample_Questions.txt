@@ -1,27 +1,47 @@
 ### Basic Questions
 1. **Average Exam Score**: What is the average exam score for all candidates?
+	* Solution: Use Tableau's `AVG` function to calculate the average of the `Exam_Score` field.
 2. **Pass Rate by Country**: What is the pass rate for candidates from each country?
+	* Solution: Create a calculated field to determine if a candidate passed, then use Tableau to aggregate the pass rate by `Country`.
 3. **Training Completion Rate**: What percentage of candidates have completed training?
+	* Solution: Use a calculated field to count the number of candidates who completed training and divide by the total number of candidates.
 4. **Experience Distribution**: How is the candidates' experience (in months) distributed?
+	* Solution: Use a histogram to visualize the distribution of `Experience_Months`.
 5. **Preferred Exam Mode**: What is the most preferred exam mode among candidates (Online vs. Onsite)?
+	* Solution: Use a bar chart to show the count of candidates preferring `Online` vs. `Onsite`.
 
 ### Intermediate Questions
 6. **Score Distribution by Product Version**: How do exam scores vary across different product versions?
+	* Solution: Use box plots to visualize score distributions across `Product_Version`.
 7. **Top Performing Countries**: Which countries have the highest average exam scores?
+	* Solution: Use a bar chart to display average `Exam_Score` by `Country`.
 8. **Exam Score vs. Experience**: Is there a correlation between candidates' experience and their exam scores?
+	* Solution: Use a scatter plot to visualize the relationship between `Experience_Months` and `Exam_Score`.
 9. **Pass Rate Over Time**: How has the pass rate changed over different exam attempt dates?
+	* Solution: Use a line chart to show the trend of pass rates over `Exam_Attempt_Date`.
 10. **Training Impact on Scores**: Analyze the impact of training completion on exam scores.
+	* Solution: Use a side-by-side bar chart to compare average scores of candidates who completed training vs. those who didn't.
 
 ### Advanced Questions
 11. **Predictive Modeling**: Can you create a model to predict exam success based on candidate data?
+	* Solution: Use Tableau's integration with R or Python to build predictive models based on candidate data.
 12. **Candidate Segmentation**: How can candidates be segmented based on their exam scores and experience?
+	* Solution: Use clustering techniques in Tableau to segment candidates based on scores and experience.
 13. **Trend Analysis**: What trends can be observed in exam attempts over time?
+	* Solution: Use time series analysis to identify trends in exam attempts over time.
 14. **Geographical Analysis**: How do exam scores and pass rates vary geographically?
+	* Solution: Use Tableau's map feature to visualize exam scores and pass rates by geography.
 15. **Experience vs. Exam Mode Preference**: Analyze the relationship between candidates' experience and their preferred exam mode.
+	* Solution: Use a heat map to analyze the relationship between `Experience_Months` and `Preferred_Exam_Mode`.
 
 ### Expert Questions
 16. **Advanced Calculated Fields**: Create a calculated field to analyze the success rate for each product version.
+	* Solution: Create calculated fields to compute success rates for each `Product_Version`.
 17. **Interactive Dashboards**: Build an interactive dashboard to explore candidate data dynamically.
+	* Solution: Build dashboards with filters and parameters to explore candidate data interactively.
 18. **Custom Visualizations**: Use custom visualizations to represent exam score distributions.
+	* Solution: Use Tableau's advanced visualization tools to create custom views of exam score distributions.
 19. **R Integration for Statistical Analysis**: Integrate R to perform advanced statistical analysis on candidate data.
+	* Solution: Use R scripts within Tableau to perform detailed statistical analyses.
 20. **Machine Learning Insights**: Use Tableau's integration with Python to apply machine learning models for predicting candidate success.
+	* Solution: Integrate Python scripts to apply machine learning models for predicting candidate success.
