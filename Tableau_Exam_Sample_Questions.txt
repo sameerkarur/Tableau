@@ -1,0 +1,27 @@
+### Basic Questions
+1. **Average Exam Score**: What is the average exam score for all candidates?
+2. **Pass Rate by Country**: What is the pass rate for candidates from each country?
+3. **Training Completion Rate**: What percentage of candidates have completed training?
+4. **Experience Distribution**: How is the candidates' experience (in months) distributed?
+5. **Preferred Exam Mode**: What is the most preferred exam mode among candidates (Online vs. Onsite)?
+
+### Intermediate Questions
+6. **Score Distribution by Product Version**: How do exam scores vary across different product versions?
+7. **Top Performing Countries**: Which countries have the highest average exam scores?
+8. **Exam Score vs. Experience**: Is there a correlation between candidates' experience and their exam scores?
+9. **Pass Rate Over Time**: How has the pass rate changed over different exam attempt dates?
+10. **Training Impact on Scores**: Analyze the impact of training completion on exam scores.
+
+### Advanced Questions
+11. **Predictive Modeling**: Can you create a model to predict exam success based on candidate data?
+12. **Candidate Segmentation**: How can candidates be segmented based on their exam scores and experience?
+13. **Trend Analysis**: What trends can be observed in exam attempts over time?
+14. **Geographical Analysis**: How do exam scores and pass rates vary geographically?
+15. **Experience vs. Exam Mode Preference**: Analyze the relationship between candidates' experience and their preferred exam mode.
+
+### Expert Questions
+16. **Advanced Calculated Fields**: Create a calculated field to analyze the success rate for each product version.
+17. **Interactive Dashboards**: Build an interactive dashboard to explore candidate data dynamically.
+18. **Custom Visualizations**: Use custom visualizations to represent exam score distributions.
+19. **R Integration for Statistical Analysis**: Integrate R to perform advanced statistical analysis on candidate data.
+20. **Machine Learning Insights**: Use Tableau's integration with Python to apply machine learning models for predicting candidate success.
