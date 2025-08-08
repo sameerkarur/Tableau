@@ -1,0 +1,32 @@
+Category,Sub-Category,Sales,Profit,Quantity,Discount,Region,Order Date
+Furniture,Chairs,5000,200,10,0.1,East,2025-01-01
+Technology,Phones,3000,800,5,0.2,West,2025-01-02
+Office Supplies,Binders,1500,100,20,0.15,South,2025-01-03
+Furniture,Tables,7000,300,15,0.05,North,2025-01-04
+Technology,Laptops,12000,1500,7,0.1,East,2025-01-05
+Office Supplies,Paper,800,50,50,0.05,West,2025-01-06
+Furniture,Bookcases,6000,250,12,0.2,South,2025-01-07
+Technology,Accessories,4000,600,8,0.15,North,2025-01-08
+Office Supplies,Labels,900,60,30,0.1,East,2025-01-09
+Furniture,Sofas,9000,400,9,0.05,West,2025-01-10
+Technology,Monitors,11000,1300,6,0.2,South,2025-01-11
+Office Supplies,Envelopes,700,40,40,0.15,North,2025-01-12
+Furniture,Desks,8000,350,11,0.1,East,2025-01-13
+Technology,Headphones,2500,500,4,0.2,West,2025-01-14
+Office Supplies,Markers,1000,70,25,0.05,South,2025-01-15
+Furniture,Stools,5500,220,13,0.15,North,2025-01-16
+Technology,Printers,10000,1200,9,0.1,East,2025-01-17
+Office Supplies,Notebooks,1200,80,35,0.2,West,2025-01-18
+Furniture,Cabinets,7500,280,14,0.05,South,2025-01-19
+Technology,Tablets,9000,1100,7,0.15,North,2025-01-20
+Office Supplies,Scissors,500,30,45,0.1,East,2025-01-21
+Furniture,Lamps,6500,240,12,0.2,West,2025-01-22
+Technology,Cameras,13000,1600,5,0.05,South,2025-01-23
+Office Supplies,Staplers,1100,90,28,0.15,North,2025-01-24
+Furniture,Partitions,8500,320,10,0.1,East,2025-01-25
+Technology,Speakers,7000,900,8,0.2,West,2025-01-26
+Office Supplies,Calculators,1000,60,32,0.05,South,2025-01-27
+Furniture,Armchairs,8000,350,11,0.15,North,2025-01-28
+Technology,Smartwatches,6000,700,6,0.1,East,2025-01-29
+Office Supplies,Glue,700,40,40,0.2,West,2025-01-30
+Furniture,Rugs,9000,400,9,0.05,South,2025-01-31

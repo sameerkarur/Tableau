@@ -1,0 +1,27 @@
+### Basic Questions
+1. **Total Sales by Category**: What are the total sales for each product category?
+2. **Profit by Region**: How does profit vary across different regions?
+3. **Sales Trend Over Time**: What is the monthly sales trend for the entire dataset?
+4. **Top 5 Products by Sales**: Which are the top 5 products in terms of sales?
+5. **Average Discount by Category**: What is the average discount offered for each category?
+
+### Intermediate Questions
+6. **Profit Margin Analysis**: What is the profit margin for each sub-category?
+7. **Sales vs. Quantity Sold**: How does sales correlate with the quantity sold for different products?
+8. **Sales by Month and Region**: How do monthly sales compare across different regions?
+9. **Discount Impact on Sales**: How does the discount percentage affect sales figures?
+10. **Year-over-Year Growth**: What is the year-over-year growth in sales?
+
+### Advanced Questions
+11. **Sales Forecasting**: Can you create a forecast model to predict future sales?
+12. **Customer Segmentation**: How can you segment customers based on their purchasing behavior?
+13. **Market Basket Analysis**: What products are frequently bought together?
+14. **Churn Prediction**: Can you identify patterns that predict customer churn?
+15. **Sales Heatmap**: Create a heatmap to visualize sales density across regions and categories.
+
+### Expert Questions
+16. **Advanced Calculated Fields**: Create a calculated field to determine the profitability index for each product.
+17. **Dynamic Dashboards**: Build a dynamic dashboard that updates based on user input.
+18. **Custom Geo-Mapping**: Use custom geocoding to map sales data to specific locations.
+19. **Advanced Analytics with R Integration**: Integrate R to perform advanced statistical analysis on sales data.
+20. **Machine Learning Insights**: Use Tableau's integration with Python to apply machine learning models for sales prediction.
