@@ -89,3 +89,43 @@
 20. Use Tableau's integration with Python to apply machine learning models for predicting candidate success.
     - Solution: Integrate Python scripts for predictions.
     - Steps: Connect to Python and use `SCRIPT_REAL` or similar functions for predictions.
+
+21. How can you connect to a new data source in Tableau Desktop?
+    - Solution: Use the "Connect" pane to select the desired data source type and follow the prompts to establish a connection.
+    - Steps: Open Tableau Desktop, go to the "Connect" pane, select the data source, and configure the connection settings.
+
+22. What are the steps to perform data transformations in Tableau Prep?
+    - Solution: Use Tableau Prep Builder to clean, combine, and shape data.
+    - Steps: Open Tableau Prep Builder, import data, and use tools like cleaning, joining, and aggregating to transform the data.
+
+23. How do you publish a dashboard to Tableau Server or Tableau Online?
+    - Solution: Use the "Publish" feature in Tableau Desktop to share dashboards.
+    - Steps: Click "Server" in the menu, select "Publish Workbook," and follow the prompts to publish to Tableau Server or Tableau Online.
+
+24. What is the process to schedule data refreshes on Tableau Server?
+    - Solution: Use the scheduling feature to automate data refreshes.
+    - Steps: Log into Tableau Server, navigate to the desired data source, and set up a refresh schedule.
+
+25. How do you maintain content on Tableau Server to ensure it remains current?
+    - Solution: Regularly update data sources and dashboards.
+    - Steps: Use Tableau Server's version control and update features to keep content up-to-date.
+
+26. How can you create a calculated field in Tableau Desktop to categorize data?
+    - Solution: Use the "Create Calculated Field" option to define custom calculations.
+    - Steps: Right-click in the data pane, select "Create Calculated Field," and enter the formula to categorize data.
+
+27. What are the best practices for creating meaningful visualizations that answer key business questions?
+    - Solution: Focus on clarity, relevance, and simplicity in visualizations.
+    - Steps: Use appropriate chart types, ensure data accuracy, and provide context with labels and annotations.
+
+28. How do you use Tableau's map feature to visualize geographical data?
+    - Solution: Drag geographical fields to the view and use the map options to customize the visualization.
+    - Steps: Drag fields like "Country" or "City" to the view and use the "Map" menu to adjust settings.
+
+29. What are the key differences between Tableau Server and Tableau Online?
+    - Solution: Understand the deployment and management differences between the two platforms.
+    - Explanation: Tableau Server is self-hosted, while Tableau Online is a cloud-based service managed by Tableau.
+
+30. How can you ensure data security and access control on Tableau Server?
+    - Solution: Use Tableau's user and permissions management features.
+    - Steps: Set up user roles, permissions, and data security rules to control access.

@@ -1,0 +1,655 @@
+Tableau Certified Data Analyst
+Exam Guide
+
+Tableau Certified Data Analyst
+
+1
+
+Awarded Credentials
+Upon successful completion of this exam, candidates are awarded the title of Tableau Certified Data
+Analyst. This title is active for two years.
+
+Target Audience
+A Tableau Data Analyst enables stakeholders to make business decisions by understanding the business
+problem, identifying data to explore for analysis, and delivering actionable insights.
+The Data Analyst uses Tableau Desktop, Tableau Prep, and either Tableau Server or Tableau Online to:
+•
+
+Connect to data sources
+
+•
+
+Perform data transformations
+
+•
+
+Explore and analyze data
+
+•
+
+Create meaningful visualizations that answer key business questions
+
+This exam measures the candidate’s:
+•
+
+Knowledge of the capabilities of Tableau Desktop, Tableau Prep, and either Tableau Server or
+Tableau Online
+
+•
+
+Ability to share content and keep the content current by publishing, scheduling, and maintaining it
+on the web
+
+Exam Guide Disclosure
+This document provides information on the structure of this exam, along with the knowledge and skills
+being measured. It suggests resources to help the candidate prepare for success. This document is not
+intended to build product knowledge nor to be used as a comprehensive list of exam content.
+
+Learning Resources
+There are no required prerequisites for this exam. Individuals learn differently and everyday use and
+exposure to Tableau varies.
+The best preparation is role experience and time with the product. To be prepared, candidates are strongly
+encouraged to have at least 6 months of experience.
+
+Tableau Certified Data Analyst
+
+2
+
+Exam Format
+•
+
+Time Limit: 120 minutes (includes 3 minutes for reviewing the NDA and 5 minutes for tutorial).
+
+•
+
+Exam Check-in: Check-in begins 30 minutes before the scheduled exam time.
+
+•
+
+Question Formats:
+o
+
+Knowledge-based: Multiple choice, Multiple selection, and Active screen (includes Build
+list, Drag and drop, and Hot area)
+
+o
+•
+
+•
+
+Performance-based: Hands-on lab
+
+Number of Questions:
+o
+
+Scored items: 30 knowledge-based items and 1 hands-on lab with 10-11 tasks.
+
+o
+
+Unscored items: Up to 15 including knowledge-based items and hands-on lab tasks.
+
+Scoring: Candidates will receive an email when their score report is available (within 48 hours of
+completing the exam.) To navigate to that score report, log into your certification account. Once
+you are logged in, click on Schedule My Exam/Schedule or Manage my exam with Pearson then, GO
+TO PEARSON. In your Pearson VUE account dashboard, click on my Exam History or View Exam
+Results to download your score report.
+
+•
+
+Passing Score: The passing scaled score for the Tableau Certified Data Analyst exam is 750.
+
+•
+
+Language(s) Offered: English
+
+•
+
+Exam Delivery Method: Testing center and online delivery are both available. Learn more about
+the check-in process and testing experience for each method here.
+
+System Preparation for an Online-Proctored Exam
+For a successful exam experience, ensure your computer, network, and the physical environment are
+properly configured. This includes performing a system test before the exam. Review the Technical
+Requirements for complete details. Larger monitors are recommended to result in the best testing
+experience for exams that include hands-on lab items. A video tutorial and demonstration of the hands-on
+lab item types can be viewed here. For questions, email certification@tableau.com or visit
+tableau.com/certification.
+
+Tableau Certified Data Analyst
+
+3
+
+Scoring
+Scoring Insight
+Please keep in mind that your final score is based on the number of questions answered or tasks performed
+correctly. If you leave a question unanswered or a lab task not performed, you will not receive credit.
+Furthermore, you do not receive partial credit. For example, if a question requires you to select three
+correct options, you do not receive credit for selecting one or two of the three options that are correct. Also,
+for lab tasks, there may be multiple ways to perform the task correctly. You are only graded on whether or
+not all of the requirements are met in your final response.
+
+Scaled Scoring
+Scaled scores are a mathematical conversion of the number of items that a candidate answers correctly so
+that there is a consistent scale used across all forms of the exam. A relevant example is the process of
+converting pounds to kilograms. The weight of the object has not changed, only the units being reported.
+Tableau exam results are reported as a score from 100 to 1000. The score shows how the candidate
+performed on the examination as a whole and the pass or fail designation. Scaled scoring models are used
+to equate scores across multiple exam forms that may have slightly different difficulty levels.
+Score reports are sent when a candidate fails the exam. This report contains a table of categories of
+performance at each section level. This information is designed to provide general feedback concerning
+examination performance. The examination uses a compensatory scoring model, which means candidates
+do not need to “pass” the individual sections, only the overall examination. Each section of the
+examination has a specific weighting, some sections have more questions than others. The scoring table
+contains general information, highlighting strengths and weaknesses. Section level feedback should be
+interpreted with candidate caution and paired with other available forms of remediation before retaking
+the exam.
+
+Unscored Content
+This examination includes unscored items. These items are placed on the exam to gather statistical
+information to verify their validity for future use. These items are not identified on the exam and do not
+affect the scoring of the exam.
+
+Tableau Certified Data Analyst
+
+4
+
+Exam Structure
+The Tableau Certified Data Analyst exam has 3 sections. The first section is knowledge-based with a variety
+of item types, but no hands-on questions. The second section of the exam is the hands-on lab. This section
+requires the candidate to demonstrate their skills using Tableau. The third section resembles the first
+section in testing the candidate's knowledge with a variety of item types, but no hands-on questions.
+Candidates are not allowed go back to a previous section of the exam once they have moved on to the next
+section. Each section of the exam has a specific weighting, some sections have more questions than others.
+
+Item Types Defined
+Knowledge-based: These item types require a single or multiple-selection response.
+Multiple Choice: Candidates can select only one answer option.
+Multiple Response: Candidates can select two or more answer options.
+Active screen: Active Screen items incorporate interactive user interface elements, such as drop-down
+lists, checkboxes, option buttons, and drag-and-drop functionality. Candidates select answers using
+these elements. A video tutorial and demonstration of active screen item types can be viewed here.
+Build list: Build List items evaluate a candidate’s ability to rank a list of items or order a series of
+tasks. Candidates are given a split screen with a list of options in the left column and an answer
+space in the right column. Using arrow buttons, candidates select options in the left column and
+sort them in the right column. Each option can only be used one time.
+Drag and drop: Evaluate object association and placement skills with the Drag-and-Drop item
+type. Candidates select and reposition answer options within a list or graphic. Candidates drag
+elements (answer options) from the left side of the screen into appropriate positions in the
+right side of the screen (Answer Area).
+Hot area: Hot Area items evaluate a candidate’s ability to locate correct regions on an image.
+Candidates are presented with an image. They submit an answer to the item by selecting specific
+locations on the image. These locations are activated by “hot area objects.”
+Performance-based: Candidates will work in a lab environment using Tableau to complete hands-on tasks.
+Responses are automatically graded within the lab. A video tutorial and demonstration of the hands-on lab
+item types can be viewed here.
+
+Tableau Certified Data Analyst
+
+5
+
+Splitter bar: In some special item type presentations – there is a “splitter bar” between the item and the
+answer area. Clicking on the splitter bar, changes the bar highlight to orange and allows candidates to drag the
+bar – making the viewing area larger when the candidate chooses.
+
+Additional Exam Details
+Access to Materials, Applications, or Internet
+Exam items in the first and third sections are written at a recall or understand/apply level. These parts of
+the exam are administered without access to the Tableau Platform. The second, hands-on lab section of
+the exam requires the candidate to use the Tableau Platform to perform the required tasks. Candidates will
+have access to the .pdf version of Tableau Help during this section of the exam. Access to the internet, or
+any other outside application is prohibited during the entire exam.
+
+Comments
+Candidates are encouraged to comment on items in the exam. Feedback from all comments is considered
+when item performance is reviewed prior to the release of new versions of exam content.
+
+Timeliness
+Completing a task effectively and efficiently has become a standard that organizations expect from
+employees. This exam is timed as a critical competency of successful candidates.
+
+Technical Issues
+If you encounter technical issues during the exam, please contact the proctor. In many cases, the only
+course of action the proctor can recommend or take, is to restart the exam. More than one restart may be
+needed. However, if you are not seeing a resolution in a timely manner and you feel your results will be
+negatively affected or you will not be able to finish the exam, ask the proctor to stop the exam and log a
+case with Pearson VUE. Once the exam has been stopped, please follow up with the Tableau Certification
+Team at certification@tableau.com to log a case about your experience.
+
+Tableau Certified Data Analyst
+
+6
+
+Content Outline
+As a reference, this exam guide includes test domains, coverage percentages and objectives only. The table
+below lists the main content domains and their weightings.
+
+Domain Title
+
+% of Exam
+Content
+
+Domain 1: Connect to and Transform Data
+
+24%
+
+Domain 2: Explore and Analyze Data
+
+41%
+
+Domain 3: Create Content
+
+26%
+
+Domain 4: Publish and Manage Content on Tableau Server and Tableau Online
+
+9%
+
+TOTAL
+
+100%
+
+Domain Objectives
+PLEASE NOTE: This is not a comprehensive listing of the content on this examination.
+
+Domain 1: Connect to and Transform Data
+1.1. Connect to data sources
+1.1.1. Choose an appropriate data source
+1.1.2. Choose between live connection or extract
+1.1.3. Connect to extracts
+1.1.4. Connect to spreadsheets
+1.1.5. Connect to .hyper files (or .tde files)
+1.1.6. Connect to relational databases
+1.1.7. Pull data from relational databases by using custom SQL queries
+1.1.8. Connect to a data source on Tableau Server
+1.1.9. Replace the connected data source with another data source for an existing chart or sheet
+1.2. Prepare data for analysis
+1.2.1. Assess data quality (completeness, consistency, accuracy)
+1.2.2. Perform cleaning operations
+1.2.3. Organize data into folders
+
+Tableau Certified Data Analyst
+
+7
+
+1.2.4. Use multiple data sources (establish relationships, create joins, union tables, blend data)
+1.2.5. Prepare data by using Data Interpreter, pivot, and split
+1.2.6. Create extract filters
+1.3. Perform data transformation in Tableau Prep
+1.3.1. Choose which data transformation to perform based on a business scenario
+1.3.2. Combine data by using unions
+1.3.3. Combine data by using joins
+1.3.4. Shape data by using aggregations
+1.3.5. Perform filtering
+1.3.6. Shape data by using pivots
+1.4. Customize fields
+1.4.1. Change default field properties (types, sorting, etc.)
+1.4.2. Rename columns
+1.4.3. Choose when to convert between discrete and continuous
+1.4.4. Choose when to convert between dimension and measure
+1.4.5. Create aliases
+
+Domain 2: Explore and Analyze Data
+2.1. Create calculated fields
+2.1.1. Write date calculations (DATEPARSE, DATENAME…)
+2.1.2. Write string functions
+2.1.3. Write logical and Boolean expressions (If, case, nested, etc.)
+2.1.4. Write number functions
+2.1.5. Write type conversion functions
+2.1.6. Write aggregate functions
+2.1.7. Write FIXED LOD calculations
+2.2. Create quick table calculations
+2.2.1. Moving average
+2.2.2. Percent of total
+2.2.3. Running total
+
+Tableau Certified Data Analyst
+
+8
+
+2.2.4. Difference and percent of difference
+2.2.5. Percentile
+2.2.6. Compound growth rate
+2.3. Create custom table calculations
+2.3.1. Year to date
+2.3.2. Month to date
+2.3.3. Year over year
+2.3.4. Index
+2.3.5. Ranking
+2.3.6. First-last
+2.4. Create and use filters
+2.4.1. Apply filters to dimensions and measures
+2.4.2. Configure filter settings including Top N, Bottom N, include, exclude, wildcard, and
+conditional
+2.4.3. Add filters to context
+2.4.4. Apply filters to multiple sheets and data sources
+2.5. Create parameters to enable interactivity
+2.5.1. In calculations
+2.5.2. With filters
+2.5.3. With reference lines
+2.6. Structure the data
+2.6.1. Sets
+2.6.2. Bins
+2.6.3. Hierarchies
+2.6.4. Groups
+2.7. Map data geographically
+2.7.1. Create symbol maps
+2.7.2. Create heat maps
+2.7.3. Create density maps
+2.7.4. Create choropleth maps (filled maps)
+
+Tableau Certified Data Analyst
+
+9
+
+2.8. Summarize, model, and customize data by using the Analytics feature
+2.8.1. Totals and subtotals
+2.8.2. Reference lines
+2.8.3. Reference bands
+2.8.4. Average lines
+2.8.5. Trend lines
+2.8.6. Distribution bands
+2.8.7. Forecast by using default settings
+2.8.8. Customize a data forecasting model
+2.8.9. Create a predictive model
+
+Domain 3: Create Content
+3.1. Create charts
+3.1.1. Create basic charts from scratch (bar, line, pie, highlight table, scatter plot, histogram, tree
+map, bubbles, data tables, Gantt, box plots, area, dual axis, combo)
+3.1.2. Sort data (including custom sort)
+3.2. Create dashboards and stories
+3.2.1. Combine sheets into a dashboard by using containers and layout options
+3.2.2. Add objects
+3.2.3. Create stories
+3.3. Add interactivity to dashboards
+3.3.1. Apply a filter to a view
+3.3.2. Add filter, URL, and highlight actions
+3.3.3. Swap sheets by using parameters or sheet selector
+3.3.4. Add navigation buttons
+3.3.5. Implement user guiding sentences (click…, hover…, menu options)
+3.4. Format dashboards
+3.4.1. Apply color, font, shapes, styling
+3.4.2. Add custom shapes and color palettes
+3.4.3. Add annotations
+
+Tableau Certified Data Analyst
+
+10
+
+3.4.4. Add tooltips
+3.4.5. Apply padding
+3.4.6. Remove gridlines, row-level and column-level bands, and shading
+3.4.7. Apply responsive design for specific device layouts
+
+Domain 4: Publish and Manage Content on Tableau Server and Tableau Online
+4.1. Publish Content
+4.1.1. Publish a workbook
+4.1.2. Publish a data source
+4.1.3. Print content
+4.1.4. Export content
+4.2. Schedule data updates
+4.2.1. Schedule data extract refreshes
+4.2.2. Schedule a Tableau Prep workflow
+4.3. Manage Published workbooks
+4.3.1. Create alerts
+4.3.2. Create subscriptions
+
+Tableau Certified Data Analyst
+
+11
+
+Practice Exam Questions
+These questions are provided to give candidates an awareness of the type of questions, structure, and
+wording to expect on the exam and should not be used to assess knowledge or preparedness.
+
+Practice Question 1
+You have a dataset that contains a list of gym equipment and the exercises that use them.
+Equipment
+
+Exercise
+
+Barbell
+
+Bench Press
+
+Dumbbell
+
+Bicep Curl
+
+Jump Rope
+
+Double-Under
+
+Barbell
+
+Front Squat
+
+Dumbbell
+
+Overhead Press
+
+…
+
+…
+
+Which formula should you use to get the number of items in the equipment list?
+a)
+
+MAX ( [Equipment] )
+
+b)
+
+COUNT ( [Equipment] )
+
+c)
+
+COUNTD ( [Equipment] )
+
+d)
+
+COVAR ( [Equipment] )
+
+e)
+
+ATTR ( [Equipment] )
+
+Tableau Certified Data Analyst
+
+12
+
+Practice Question 2
+You have the following dataset:
+Item
+
+Revenue
+
+Candy
+
+18,782
+
+Sodas
+
+36,241
+
+Popcorn
+
+23,987
+
+Nachos
+
+9,483
+
+You want to create the following pie chart.
+
+How should you configure the marks for the pie chart?
+a)
+
+Drag Revenue to Color, Item to Label, and Item to Angle.
+
+b)
+
+Drag Item to Color, Item to Label, and Revenue to Angle.
+
+c)
+
+Drag Item to Size, Item to Label, and Revenue to Detail.
+
+d)
+
+Drag Revenue to Color, Revenue to Label, and Item to Detail.
+
+Tableau Certified Data Analyst
+
+13
+
+Solutions to Practice Exam Questions
+Practice Question 1 - Answer and Rationale
+You have a dataset that contains a list of gym equipment and the exercises that use them.
+Equipment
+
+Exercise
+
+Barbell
+
+Bench Press
+
+Dumbbell
+
+Bicep Curl
+
+Jump Rope
+
+Double-Under
+
+Barbell
+
+Front Squat
+
+Dumbbell
+
+Overhead Press
+
+…
+
+…
+
+Which formula should you use to get the number of items in the equipment list?
+a)
+
+MAX ( [Equipment] )
+INCORRECT – When using MAX with a string, a string value, not a numeric value is returned.
+
+b)
+
+COUNT ( [Equipment] )
+INCORRECT – COUNT will count each time an equipment is listed, resulting in over-counting
+
+c)
+
+COUNTD ( [Equipment] )
+CORRECT – COUNTD counts the distinct number of equipment that appear in the list (which is 3).
+
+d)
+
+COVAR ( [Equipment] )
+INCORRECT – COVAR does not apply because it is a measure of how much two variables change
+together
+
+e)
+
+ATTR ( [Equipment] )
+INCORRECT – ATTR does not apply because it is a test for heterogeneity across the rows in a result
+set
+
+Learn more - https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_aggregate_create.htm
+
+Tableau Certified Data Analyst
+
+14
+
+Practice Question 2 - Answer and Rationale
+You have the following dataset:
+Item
+
+Revenue
+
+Candy
+
+18,782
+
+Sodas
+
+36,241
+
+Popcorn
+
+23,987
+
+Nachos
+
+9,483
+
+You want to create the following pie chart.
+
+How should you configure the marks for the pie chart?
+a)
+
+Drag Revenue to Color, Item to Label, and Item to Angle.
+INCORRECT – The field Item is invalid on Size for Pie Marks, which require continuous numeric
+fields.
+
+b)
+
+Drag Item to Color, Item to Label, and Revenue to Angle.
+CORRECT – Using a Measure on the Angle and a Dimension on the Color and Label produce the
+example chart
+
+c)
+
+Drag Item to Size, Item to Label, and Revenue to Detail.
+INCORRECT – The field Item is invalid on Size for Pie Marks, which require continuous numeric
+fields.
+
+d)
+
+Drag Revenue to Color, Revenue to Label, and Item to Detail.
+INCORRECT – This creates a pie chart split evenly displaying Revenue as the label.
+
+Learn more - https://help.tableau.com/current/pro/desktop/en-us/buildexamples_pie.htm
+Tableau Certified Data Analyst
+
+15
+
+Notes and Revisions
+Draft v 1.0
+
+Initial draft created for TDA-C01 Exam
+
+v 1.1
+
+Released for TDA-C01 Exam
+
+1/6/2022
+
+v 1.2
+
+Number of unscored items updated and link to
+video tutorials added.
+
+3/18/2022
+6/21/2022
+
+v 1.3
+
+Exam Format section: Removed Exam Delivery
+Provider and Registration bullets.
+Item Types Defined section: Added clarification for
+drag and drop item types.
+Practice question 2 corrected.
+Scoring section: Added Scoring Insight
+
+Tableau Certified Data Analyst
+
+16
+
+
