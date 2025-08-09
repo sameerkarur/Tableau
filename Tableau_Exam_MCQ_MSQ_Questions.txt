@@ -1,0 +1,703 @@
+### Multiple-Choice Questions (MCQ)
+
+1. What is the primary function of Tableau Prep?
+   - A) Data visualization
+   - B) Data transformation
+   - C) Data storage
+   - D) Data security
+   - **Answer**: B) Data transformation
+
+2. How can you schedule a data refresh in Tableau Server?
+   - A) Use the "Data" menu in Tableau Desktop
+   - B) Set up a refresh schedule in Tableau Server
+   - C) Use Tableau Prep Builder
+   - D) Manually refresh data in Tableau Online
+   - **Answer**: B) Set up a refresh schedule in Tableau Server
+
+3. What is the purpose of a calculated field in Tableau?
+   - A) To store raw data
+   - B) To perform custom calculations
+   - C) To secure data
+   - D) To publish dashboards
+   - **Answer**: B) To perform custom calculations
+
+4. What are the key differences between Tableau Server and Tableau Online?
+   - A) Tableau Server is self-hosted, while Tableau Online is cloud-based
+   - B) Tableau Server offers more customization
+   - C) Tableau Online requires no infrastructure management
+   - D) All of the above
+   - **Answer**: D) All of the above
+
+5. How do you maintain content on Tableau Server to ensure it remains current?
+   - A) Regularly update data sources and dashboards
+   - B) Use Tableau Server's version control and update features
+   - C) Both A and B
+   - D) None of the above
+   - **Answer**: C) Both A and B
+
+6. What is the primary use of Tableau Desktop?
+   - A) Data storage
+   - B) Data analysis and visualization
+   - C) Data security
+   - D) Data backup
+   - **Answer**: B) Data analysis and visualization
+
+7. Which of the following is a feature of Tableau Prep?
+   - A) Creating dashboards
+   - B) Data cleaning and transformation
+   - C) Data storage
+   - D) Data security
+   - **Answer**: B) Data cleaning and transformation
+
+8. How can you share a dashboard with others in Tableau?
+   - A) Print the dashboard
+   - B) Email the dashboard
+   - C) Publish to Tableau Server or Tableau Online
+   - D) Save as a PDF
+   - **Answer**: C) Publish to Tableau Server or Tableau Online
+
+9. What is the best practice for creating a pie chart in Tableau?
+   - A) Use more than 10 slices
+   - B) Use fewer than 5 slices
+   - C) Use detailed labels for each slice
+   - D) Avoid using pie charts
+   - **Answer**: B) Use fewer than 5 slices
+
+10. How do you connect to a data source in Tableau Desktop?
+    - A) Use the "File" menu
+    - B) Use the "Connect" pane
+    - C) Use the "Data" menu
+    - D) Use the "Edit" menu
+    - **Answer**: B) Use the "Connect" pane
+
+11. What is the default file format for Tableau workbooks?
+    - A) .twbx
+    - B) .xlsx
+    - C) .csv
+    - D) .pdf
+    - **Answer**: A) .twbx
+
+12. How do you create a dashboard in Tableau?
+    - A) Use the "Data" menu
+    - B) Use the "Dashboard" menu
+    - C) Use the "File" menu
+    - D) Use the "Edit" menu
+    - **Answer**: B) Use the "Dashboard" menu
+
+13. What is the purpose of a story in Tableau?
+    - A) To create a narrative with data
+    - B) To store data
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: A) To create a narrative with data
+
+14. Which of the following is a type of join in Tableau?
+    - A) Inner join
+    - B) Outer join
+    - C) Left join
+    - D) All of the above
+    - **Answer**: D) All of the above
+
+15. How can you filter data in Tableau?
+    - A) Use the "Data" menu
+    - B) Use the "Filter" shelf
+    - C) Use the "Edit" menu
+    - D) Use the "File" menu
+    - **Answer**: B) Use the "Filter" shelf
+
+16. What is the purpose of a parameter in Tableau?
+    - A) To store data
+    - B) To create dynamic calculations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To create dynamic calculations
+
+17. How do you create a calculated field in Tableau?
+    - A) Use the "Data" menu
+    - B) Use the "Analysis" menu
+    - C) Use the "File" menu
+    - D) Use the "Edit" menu
+    - **Answer**: B) Use the "Analysis" menu
+
+18. What is the primary use of Tableau Online?
+    - A) Data storage
+    - B) Cloud-based data sharing
+    - C) Data security
+    - D) Data backup
+    - **Answer**: B) Cloud-based data sharing
+
+19. Which of the following is a feature of Tableau Server?
+    - A) Data visualization
+    - B) Data storage
+    - C) Data security
+    - D) All of the above
+    - **Answer**: D) All of the above
+
+20. How can you publish a workbook to Tableau Server?
+    - A) Use the "File" menu
+    - B) Use the "Server" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Server" menu
+
+21. What is the purpose of a heat map in Tableau?
+    - A) To store data
+    - B) To visualize data density
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To visualize data density
+
+22. How can you create a new dashboard in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Dashboard" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Dashboard" menu
+
+23. What is the role of a data source filter in Tableau?
+    - A) To secure data
+    - B) To limit data retrieved from the source
+    - C) To enhance data visualization
+    - D) To store data
+    - **Answer**: B) To limit data retrieved from the source
+
+24. How can you create a new sheet in Tableau Desktop?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Click the "New Worksheet" icon
+    - D) Use the "Edit" menu
+    - **Answer**: C) Click the "New Worksheet" icon
+
+25. What is the purpose of a scatter plot in Tableau?
+    - A) To store data
+    - B) To show relationships between two variables
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show relationships between two variables
+
+26. How can you create a new story in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Story" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Story" menu
+
+27. What is the purpose of a bubble chart in Tableau?
+    - A) To store data
+    - B) To show relationships between data points
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show relationships between data points
+
+28. How can you create a new parameter in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Use the "Analysis" menu
+    - D) Use the "Edit" menu
+    - **Answer**: C) Use the "Analysis" menu
+
+29. What is the purpose of a dual-axis chart in Tableau?
+    - A) To store data
+    - B) To compare two measures
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To compare two measures
+
+30. How do you create a story in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Story" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Story" menu
+
+31. What is the purpose of a tree map in Tableau?
+    - A) To store data
+    - B) To show hierarchical data
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show hierarchical data
+
+32. How do you publish a workbook to Tableau Public?
+    - A) Use the "File" menu
+    - B) Use the "Server" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Server" menu
+
+33. What is the role of a trend line in Tableau?
+    - A) To store data
+    - B) To show trends over time
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show trends over time
+
+34. How do you create a calculated field in Tableau?
+    - A) Use the "Data" menu
+    - B) Use the "Analysis" menu
+    - C) Use the "File" menu
+    - D) Use the "Edit" menu
+    - **Answer**: B) Use the "Analysis" menu
+
+35. What is the role of a reference line in Tableau?
+    - A) To store data
+    - B) To add context to visualizations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To add context to visualizations
+
+36. How do you create a new calculated field in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Use the "Analysis" menu
+    - D) Use the "Edit" menu
+    - **Answer**: C) Use the "Analysis" menu
+
+37. What is the primary use of Tableau Server?
+    - A) Data storage
+    - B) Centralized data management
+    - C) Data security
+    - D) Data backup
+    - **Answer**: B) Centralized data management
+
+38. How do you publish a workbook to Tableau Server?
+    - A) Use the "File" menu
+    - B) Use the "Server" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Server" menu
+
+39. What is the purpose of a calculated field in Tableau?
+    - A) To store data
+    - B) To perform custom calculations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To perform custom calculations
+
+40. What is the primary function of a heat map in Tableau?
+    - A) To store data
+    - B) To visualize data density
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To visualize data density
+
+41. How can you create a new dashboard in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Dashboard" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Dashboard" menu
+
+42. What is the role of a filter in Tableau?
+    - A) To store data
+    - B) To limit data displayed in visualizations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To limit data displayed in visualizations
+
+43. How can you add a reference line to a chart in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Analysis" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Analysis" menu
+
+44. What is the function of a calculated field in Tableau?
+    - A) To store data
+    - B) To perform custom calculations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To perform custom calculations
+
+45. How do you create a new parameter in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Use the "Analysis" menu
+    - D) Use the "Edit" menu
+    - **Answer**: C) Use the "Analysis" menu
+
+46. What is the role of a trend line in Tableau?
+    - A) To store data
+    - B) To show trends over time
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show trends over time
+
+47. What is the purpose of a tree map in Tableau?
+    - A) To store data
+    - B) To show hierarchical data
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show hierarchical data
+
+48. How can you create a new calculated field in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Use the "Analysis" menu
+    - D) Use the "Edit" menu
+    - **Answer**: C) Use the "Analysis" menu
+
+49. What is the primary use of Tableau Online?
+    - A) Data storage
+    - B) Cloud-based data sharing
+    - C) Data security
+    - D) Data backup
+    - **Answer**: B) Cloud-based data sharing
+
+50. How do you publish a workbook to Tableau Online?
+    - A) Use the "File" menu
+    - B) Use the "Server" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Server" menu
+
+51. What is the purpose of a scatter plot in Tableau?
+    - A) To store data
+    - B) To show relationships between two variables
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show relationships between two variables
+
+52. How can you create a new story in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Story" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Story" menu
+
+53. What is the role of a parameter in Tableau?
+    - A) To store data
+    - B) To create dynamic calculations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To create dynamic calculations
+
+54. How can you add a trend line to a chart in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Analysis" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Analysis" menu
+
+55. What is the function of a calculated field in Tableau?
+    - A) To store data
+    - B) To perform custom calculations
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To perform custom calculations
+
+56. How can you enhance the performance of a Tableau dashboard?
+    - A) Use extracts instead of live connections
+    - B) Minimize the use of filters
+    - C) Optimize calculations
+    - D) Use complex visualizations
+    - **Answers**: A) Use extracts instead of live connections, B) Minimize the use of filters, C) Optimize calculations
+
+57. How do you publish a workbook to Tableau Server?
+    - A) Use the "File" menu
+    - B) Use the "Server" menu
+    - C) Use the "Edit" menu
+    - D) Use the "Data" menu
+    - **Answer**: B) Use the "Server" menu
+
+58. What is the purpose of a bubble chart in Tableau?
+    - A) To store data
+    - B) To show relationships between data points
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show relationships between data points
+
+59. What is the purpose of a tree map in Tableau?
+    - A) To store data
+    - B) To show hierarchical data
+    - C) To secure data
+    - D) To publish dashboards
+    - **Answer**: B) To show hierarchical data
+
+60. How can you create a new calculated field in Tableau?
+    - A) Use the "File" menu
+    - B) Use the "Data" menu
+    - C) Use the "Analysis" menu
+    - D) Use the "Edit" menu
+    - **Answer**: C) Use the "Analysis" menu
+
+### Multiple-Selection Questions (MSQ)
+
+61. Which of the following are features of Tableau Desktop? (Select all that apply)
+    - A) Connect to data sources
+    - B) Perform data transformations
+    - C) Create visualizations
+    - D) Publish dashboards to Tableau Server
+    - **Answers**: A) Connect to data sources, C) Create visualizations, D) Publish dashboards to Tableau Server
+
+62. What are the benefits of using Tableau Online? (Select all that apply)
+    - A) Cloud-based access
+    - B) Self-hosted management
+    - C) Automatic updates
+    - D) High customization
+    - **Answers**: A) Cloud-based access, C) Automatic updates
+
+63. What are the steps to perform data transformations in Tableau Prep? (Select all that apply)
+    - A) Open Tableau Prep Builder
+    - B) Import data
+    - C) Use tools like cleaning, joining, and aggregating
+    - D) Publish directly to Tableau Server
+    - **Answers**: A) Open Tableau Prep Builder, B) Import data, C) Use tools like cleaning, joining, and aggregating
+
+64. How can you ensure data security and access control on Tableau Server? (Select all that apply)
+    - A) Set up user roles
+    - B) Configure data security rules
+    - C) Use Tableau's user and permissions management features
+    - D) Ignore security settings
+    - **Answers**: A) Set up user roles, B) Configure data security rules, C) Use Tableau's user and permissions management features
+
+65. What are the best practices for creating meaningful visualizations that answer key business questions? (Select all that apply)
+    - A) Focus on clarity
+    - B) Ensure data accuracy
+    - C) Provide context with labels and annotations
+    - D) Use complex chart types
+    - **Answers**: A) Focus on clarity, B) Ensure data accuracy, C) Provide context with labels and annotations
+
+66. Which of the following are types of charts available in Tableau? (Select all that apply)
+    - A) Bar chart
+    - B) Line chart
+    - C) Pie chart
+    - D) Scatter plot
+    - **Answers**: A) Bar chart, B) Line chart, C) Pie chart, D) Scatter plot
+
+67. What are the benefits of using calculated fields in Tableau? (Select all that apply)
+    - A) Perform custom calculations
+    - B) Create dynamic visualizations
+    - C) Enhance data analysis
+    - D) Secure data
+    - **Answers**: A) Perform custom calculations, B) Create dynamic visualizations, C) Enhance data analysis
+
+68. How can you customize a dashboard in Tableau? (Select all that apply)
+    - A) Add filters
+    - B) Change layout
+    - C) Add interactivity
+    - D) Use the "File" menu
+    - **Answers**: A) Add filters, B) Change layout, C) Add interactivity
+
+69. What are the steps to create a story in Tableau? (Select all that apply)
+    - A) Use the "Story" menu
+    - B) Add sheets to the story
+    - C) Customize the narrative
+    - D) Publish directly to Tableau Server
+    - **Answers**: A) Use the "Story" menu, B) Add sheets to the story, C) Customize the narrative
+
+70. How do you manage permissions in Tableau Server? (Select all that apply)
+    - A) Set user roles
+    - B) Configure permissions
+    - C) Use the "Data" menu
+    - D) Use the "File" menu
+    - **Answers**: A) Set user roles, B) Configure permissions
+
+71. What are the key features of Tableau Prep? (Select all that apply)
+    - A) Data cleaning
+    - B) Data transformation
+    - C) Data visualization
+    - D) Data storage
+    - **Answers**: A) Data cleaning, B) Data transformation
+
+72. Which of the following are best practices for data visualization in Tableau? (Select all that apply)
+    - A) Use clear labels
+    - B) Avoid clutter
+    - C) Use appropriate chart types
+    - D) Use complex colors
+    - **Answers**: A) Use clear labels, B) Avoid clutter, C) Use appropriate chart types
+
+73. How can you enhance data security in Tableau Server? (Select all that apply)
+    - A) Use data encryption
+    - B) Set up user authentication
+    - C) Configure access controls
+    - D) Use the "File" menu
+    - **Answers**: A) Use data encryption, B) Set up user authentication, C) Configure access controls
+
+74. What are the steps to create a new workbook in Tableau Desktop? (Select all that apply)
+    - A) Open Tableau Desktop
+    - B) Connect to a data source
+    - C) Create a new sheet
+    - D) Use the "File" menu
+    - **Answers**: A) Open Tableau Desktop, B) Connect to a data source, C) Create a new sheet
+
+75. What are the advantages of using Tableau Online? (Select all that apply)
+    - A) Cloud-based access
+    - B) Automatic updates
+    - C) No infrastructure management
+    - D) High customization
+    - **Answers**: A) Cloud-based access, B) Automatic updates, C) No infrastructure management
+
+76. Which of the following are components of a Tableau dashboard? (Select all that apply)
+    - A) Sheets
+    - B) Stories
+    - C) Filters
+    - D) Parameters
+    - **Answers**: A) Sheets, C) Filters, D) Parameters
+
+77. What are the advantages of using Tableau Prep for data preparation? (Select all that apply)
+    - A) Visual data cleaning
+    - B) Easy data transformation
+    - C) Direct data storage
+    - D) Integration with Tableau Desktop
+    - **Answers**: A) Visual data cleaning, B) Easy data transformation, D) Integration with Tableau Desktop
+
+78. Which of the following are Tableau Server capabilities? (Select all that apply)
+    - A) Data visualization
+    - B) Data storage
+    - C) User management
+    - D) Real-time collaboration
+    - **Answers**: A) Data visualization, C) User management, D) Real-time collaboration
+
+79. How can you optimize performance in Tableau? (Select all that apply)
+    - A) Use extracts instead of live connections
+    - B) Minimize data sources
+    - C) Use context filters
+    - D) Use complex calculations
+    - **Answers**: A) Use extracts instead of live connections, B) Minimize data sources, C) Use context filters
+
+80. What are the steps to create a new dashboard in Tableau? (Select all that apply)
+    - A) Use the "Dashboard" menu
+    - B) Add sheets and visualizations
+    - C) Customize the layout
+    - D) Publish directly to Tableau Server
+    - **Answers**: A) Use the "Dashboard" menu, B) Add sheets and visualizations, C) Customize the layout
+
+81. Which of the following are components of a Tableau workbook? (Select all that apply)
+    - A) Sheets
+    - B) Dashboards
+    - C) Stories
+    - D) Narratives
+    - **Answers**: A) Sheets, B) Dashboards, C) Stories
+
+82. What are the benefits of using Tableau for data analysis? (Select all that apply)
+    - A) Interactive analysis
+    - B) Real-time data updates
+    - C) Complex calculations
+    - D) Manual data entry
+    - **Answers**: A) Interactive analysis, B) Real-time data updates, C) Complex calculations
+
+83. Which of the following are Tableau Online features? (Select all that apply)
+    - A) Cloud-based access
+    - B) Automatic updates
+    - C) Real-time collaboration
+    - D) Data entry
+    - **Answers**: A) Cloud-based access, B) Automatic updates, C) Real-time collaboration
+
+84. How can you improve the performance of a Tableau workbook? (Select all that apply)
+    - A) Use extracts instead of live connections
+    - B) Minimize the use of filters
+    - C) Optimize calculations
+    - D) Use complex visualizations
+    - **Answers**: A) Use extracts instead of live connections, B) Minimize the use of filters, C) Optimize calculations
+
+85. What are the steps to create a new story in Tableau? (Select all that apply)
+    - A) Use the "Story" menu
+    - B) Add sheets and dashboards
+    - C) Customize the narrative
+    - D) Publish directly to Tableau Server
+    - **Answers**: A) Use the "Story" menu, B) Add sheets and dashboards, C) Customize the narrative
+
+86. Which of the following are best practices for creating dashboards in Tableau? (Select all that apply)
+    - A) Use consistent colors
+    - B) Minimize clutter
+    - C) Provide clear labels
+    - D) Use complex charts
+    - **Answers**: A) Use consistent colors, B) Minimize clutter, C) Provide clear labels
+
+87. How can you enhance the interactivity of a Tableau dashboard? (Select all that apply)
+    - A) Use filters
+    - B) Add actions
+    - C) Use complex visualizations
+    - D) Use static images
+    - **Answers**: A) Use filters, B) Add actions
+
+88. How can you enhance the interactivity of a Tableau story? (Select all that apply)
+    - A) Use filters
+    - B) Add actions
+    - C) Use complex visualizations
+    - D) Use static images
+    - **Answers**: A) Use filters, B) Add actions
+
+89. Which of the following are Tableau visualization types? (Select all that apply)
+    - A) Heat map
+    - B) Tree map
+    - C) Bubble chart
+    - D) Histogram
+    - **Answers**: A) Heat map, B) Tree map, C) Bubble chart, D) Histogram
+
+90. What are the steps to create a new workbook in Tableau Desktop? (Select all that apply)
+    - A) Open Tableau Desktop
+    - B) Connect to a data source
+    - C) Create a new sheet
+    - D) Use the "File" menu
+    - **Answers**: A) Open Tableau Desktop, B) Connect to a data source, C) Create a new sheet
+
+91. What are the benefits of using Tableau for data visualization? (Select all that apply)
+    - A) Interactive visualizations
+    - B) Real-time data updates
+    - C) Complex data analysis
+    - D) Manual data entry
+    - **Answers**: A) Interactive visualizations, B) Real-time data updates, C) Complex data analysis
+
+92. Which of the following are Tableau Server features? (Select all that apply)
+    - A) User management
+    - B) Data visualization
+    - C) Real-time collaboration
+    - D) Data entry
+    - **Answers**: A) User management, B) Data visualization, C) Real-time collaboration
+
+93. Which of the following are best practices for creating visualizations in Tableau? (Select all that apply)
+    - A) Use consistent colors
+    - B) Minimize clutter
+    - C) Provide clear labels
+    - D) Use complex charts
+    - **Answers**: A) Use consistent colors, B) Minimize clutter, C) Provide clear labels
+
+94. How can you enhance the interactivity of a Tableau story? (Select all that apply)
+    - A) Use filters
+    - B) Add actions
+    - C) Use complex visualizations
+    - D) Use static images
+    - **Answers**: A) Use filters, B) Add actions
+
+95. Which of the following are Tableau visualization types? (Select all that apply)
+    - A) Heat map
+    - B) Tree map
+    - C) Bubble chart
+    - D) Histogram
+    - **Answers**: A) Heat map, B) Tree map, C) Bubble chart, D) Histogram
+
+96. What are the steps to create a new workbook in Tableau Desktop? (Select all that apply)
+    - A) Open Tableau Desktop
+    - B) Connect to a data source
+    - C) Create a new sheet
+    - D) Use the "File" menu
+    - **Answers**: A) Open Tableau Desktop, B) Connect to a data source, C) Create a new sheet
+
+97. What are the benefits of using Tableau for data analysis? (Select all that apply)
+    - A) Interactive analysis
+    - B) Real-time data updates
+    - C) Complex calculations
+    - D) Manual data entry
+    - **Answers**: A) Interactive analysis, B) Real-time data updates, C) Complex calculations
+
+98. Which of the following are Tableau Online features? (Select all that apply)
+    - A) Cloud-based access
+    - B) Automatic updates
+    - C) Real-time collaboration
+    - D) Data entry
+    - **Answers**: A) Cloud-based access, B) Automatic updates, C) Real-time collaboration
+
+99. How can you improve the performance of a Tableau workbook? (Select all that apply)
+    - A) Use extracts instead of live connections
+    - B) Minimize the use of filters
+    - C) Optimize calculations
+    - D) Use complex visualizations
+    - **Answers**: A) Use extracts instead of live connections, B) Minimize the use of filters, C) Optimize calculations
+
+100. What are the steps to create a new story in Tableau? (Select all that apply)
+    - A) Use the "Story" menu
+    - B) Add sheets and dashboards
+    - C) Customize the narrative
+    - D) Publish directly to Tableau Server
+    - **Answers**: A) Use the "Story" menu, B) Add sheets and dashboards, C) Customize the narrative
